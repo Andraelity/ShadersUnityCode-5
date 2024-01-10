@@ -1,7 +1,7 @@
 # Unity Shaders Compilation Study Case
 Repo on Unity Shaders Study Case
 
-![](InGameShaders.gif)
+![](InGameShaders.mp4)
 
 # CHECK
 
