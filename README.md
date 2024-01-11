@@ -3,6 +3,8 @@ Repo on Unity Shaders Study Case
 
 ![](InGameShaders.mp4)
 
+<https://youtu.be/RQRrxaGoJJc>
+[Video demo of the project](https://youtu.be/RQRrxaGoJJc)
 # CHECK
 
 new update on the creation of shaders, new update on the creation of projects of game style code shaders, design, elements based on the structure of content creation, and content validation, effects and elements on model environmnet.
